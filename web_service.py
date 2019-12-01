@@ -75,7 +75,7 @@ def detect_faces_in_image(file_stream):
         "Nisa dwi septia",
         "Phanuvich",
         "Puri",
-        "Rahayu_Setyowati",
+        "Rahayu setyowati",
         "Randi",
         "Reamber",
         "Trio",
